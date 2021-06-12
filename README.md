@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing web apps.
 - 🎓 &nbsp; Computer Science engineering student.
 - 💼 &nbsp; Looking for more opportunities as a full stack web developer.
-- 🌱 &nbsp; Learning more about Cloud Natives, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cloud Native, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
