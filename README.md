@@ -45,8 +45,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sourabh-rathore-664125154/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sourabh-rathore-664125154/"></a>
 
-<a href="mailto:sourabhrathour1999@gmail.com"><img alt="Email" </a>
+<a href="mailto:sourabhrathour1999@gmail.com"></a>
 </p>
 
