@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on **Full Stack Projects**</a>
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/Rathoresourabh?tab=repositories">**Github**</a>
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: sourabhrathour1999@gmail.com , or just message me on any socials mentioned below.
+- 📫 How to reach me: sourabhrathour1999@gmail.com , or just message me on any socials mentioned above.
 - 😄 Pronouns: Intermediate Full Stack Web Developer
 - ⚡ Website : Will make one soon</a>
 
