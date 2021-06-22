@@ -17,7 +17,6 @@
 # Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on **React Projects**
-- 🌱 I’m currently learning **Containers **, **kubernetes**, **vue**
 - 👯 I’m looking to collaborate on **Full Stack Projects**</a>
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/Rathoresourabh?tab=repositories">**Github**</a>
 - 💬 Ask me about anything, I am happy to help
