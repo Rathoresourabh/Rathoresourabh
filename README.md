@@ -8,7 +8,6 @@
  </a> 
 </p>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejas1510" alt="Tejas1510" /> </p> 
   
 ## Hi there 👋,           
 #### I'm Sourabh, Computer science engineering student .I love to build Full stack Application , my primary stack is React(both web and mobile) and currently focusing on cloud native fundamentals.
@@ -30,11 +29,11 @@
 
 **Technical Skills**
 - Languages: Javascript , Typescript , Python ,Java ,C++ 
-- Lib/Frameworks: Node , React , Next , Django ,  Wordpress 
+- Lib/Frameworks: Node , React , Django ,
 - Database:  MySql , MonogoDB , Cloud Database
 - Cloud: AWS
 - Developer Tools: GitHub , VScode , Docker
 - Operating System: Linux
-- Project Management:Scrum
+- Project Management: Scrum
 
 
