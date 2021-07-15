@@ -27,7 +27,7 @@
 # Skills:
 
 **Technical Skills**
-- Languages: Javascript , Typescript , Python ,Java ,C++ 
+- Languages: Javascript , Python ,
 - Lib/Frameworks: Node , React , Django ,
 - Database:  MySql , MonogoDB , Cloud Database
 - Cloud: AWS
