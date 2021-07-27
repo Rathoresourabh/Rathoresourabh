@@ -12,7 +12,7 @@
 ## Hi there 👋,           
 #### I'm Sourabh, Computer science engineering student .I love to build Full stack Application , my primary stack is React(both web and mobile) and currently focusing on cloud native fundamentals.
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
+<!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />   -->
 
 # Talking about Personal Stuffs:
 
