@@ -10,13 +10,13 @@
  
   
 ## Hi there 👋,           
-#### I'm Sourabh, Computer science engineering student .I love to build Full stack Application , my primary stack is React(both web and mobile) and currently focusing on cloud native fundamentals.
+#### I'm Sourabh, Computer science engineering graduate student .I love to build Full stack Application , my primary stack is React(both web and mobile) and currently focusing on Blockchain Fundamentals.
 
 <!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />   -->
 
 # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on **React Projects**
+- 👨🏽‍💻 I’m currently working on **React & Blockchain Projects** 
 - 👯 I’m looking to collaborate on **Full Stack Projects**</a>
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/Rathoresourabh?tab=repositories">**Github**</a>
 - 💬 Ask me about anything, I am happy to help
@@ -27,7 +27,7 @@
 # Skills:
 
 **Technical Skills**
-- Languages: Javascript , Python ,
+- Languages: Javascript ,Typescript , Python ,
 - Lib/Frameworks: Node , React , Django ,
 - Database:  MySql , MonogoDB , Cloud Database
 - Cloud: AWS
