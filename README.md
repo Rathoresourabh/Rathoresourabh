@@ -16,23 +16,23 @@
 
 # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on **React & Blockchain Projects** 
+- 👨🏽‍💻 I’m currently working on **React & Blockchain Projects also working on Metaverse projects** 
 - 👯 I’m looking to collaborate on **Full Stack Projects**</a>
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/Rathoresourabh?tab=repositories">**Github**</a>
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: sourabhrathour1999@gmail.com , or just message me on any socials mentioned above.
-- 😄 Pronouns: Intermediate Full Stack Web Developer
+- 😄 Pronouns:  Full Stack Web Developer 
 - ⚡ Website : Will make one soon</a>
 
 # Skills:
 
 **Technical Skills**
-- Languages: Javascript ,Typescript , Python ,
-- Lib/Frameworks: Node , React , Django ,
-- Database:  MySql , MonogoDB , Cloud Database
+- Languages: Javascript , Typescript
+- Lib/Frameworks: Node , React , Next , Web3JS , EtherJS
+- Database:   MonogoDB , MySql , Firebase
 - Cloud: AWS
-- Developer Tools: GitHub , VScode , Docker
-- Operating System: Linux
+- Developer Tools: GitHub , VScode 
+- Operating System: Linux ,  Mac
 - Project Management: Scrum
 
 
